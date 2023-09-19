@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "5d310bdba686da56",
+    "type": "split",
+    "children": [
+      {
+        "id": "47e33b4bca6020f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68d011e38f8cd4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f648cd855e0c7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로젝트 분석 및 정의/프로젝트 문서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a2ba37e7498ceff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로젝트 분석 및 정의/프로젝트 분석 및 정의.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27faba794b17208f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로젝트 분석 및 정의/프로젝트 분석 및 정의.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce694e2075807acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로젝트 분석 및 정의/프로젝트 분석 및 정의.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1171357af25585e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기능 설계/기능 설계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c23a0a80818a256a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "화면설계/화면 설계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d795af189f4d7a73",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "798aa5b03fc860f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea73ddec172166fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dbc82ab462c2a9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25b536c09fbcb273",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3277e0bb7fbe2224",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6cbdc3fc8060b1cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad3f01b2cdac9d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07a560896b2fc927",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa2749dbfdd98f7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b32a151482d8cb32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fbe8a9b11ab4abd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "d795af189f4d7a73",
+  "lastOpenFiles": [
+    "무제 파일.canvas",
+    "기획.md",
+    "일정.md",
+    "프로젝트 분석 및 정의/프로젝트 분석 및 정의.md",
+    "화면설계/화면 설계도.md",
+    "화면설계/화면 설계.md",
+    "기능 설계/기능 명세서.md",
+    "기능 설계/기능 설계.md",
+    "기능 설계/기능 흐름도.md",
+    "기능 설계/API명세서.md",
+    "프로젝트 분석 및 정의/기능 설계도.md",
+    "프로젝트 분석 및 정의/프로젝트 문서.md",
+    "프로젝트 분석 및 정의/프로젝트의 목표 및 분석.md",
+    "화면설계/사용자 흐름도.md",
+    "화면설계",
+    "9-27.md",
+    "일정/9/27.md",
+    "일정",
+    "일정/9",
+    "9/일정",
+    "기능 설계",
+    "프로젝트 분석 및 정의/프로젝트 문서",
+    "프로젝트 분석 및 정의"
+  ]
+}
